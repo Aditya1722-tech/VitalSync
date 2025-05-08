@@ -15,7 +15,7 @@ Vitalsync is a privacy first smartwatch-to-smartwatch communication platform tha
 5. Web-based user interface
 
 # Team
-Backed by cocreate volunteers, Vitalsync is built by a diverse team of 9 engineering students passionate about solving read-world problems using IOT/Embedded systems and machine learning.
+Backed by cocreate volunteers, Vitalsync is built by a diverse team of 9 engineering students passionate about solving real-world problems using IOT/Embedded systems and machine learning.
 
 # Status
 Currently under active development. First prototype expected soon.
